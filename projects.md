@@ -8,10 +8,8 @@ title: Projects
 ## Previous Projects
 ### Soil carbon cycling in dynamic floodplain systems.
 
-- Soils are a vast reservoir of global carbon, containing more carbon than the atmosphere and plants combined. However, because we don’t know what keeps carbon in the soil, we cannot predict how soil carbon will respond to climate change.
-​
-- My dissertation research explored an ecosystem heavily impacted by climate change: alpine watersheds. Specifically, I investigated how snowmelt and associated flooding events at the East River in Colorado impact carbon dynamics in floodplain soils, through interactions with both minerals and microbes. To do this research, I worked with Marco Keiluweit's Soil Biogeochemistry Group (now at [UNIL](https://wp.unil.ch/bgc/)) and a team of researchers involved with the Watershed Function project at the East River floodplain in Colorado, located near the Rocky Mountain Biological Laboratory. 
-- Understanding how different carbon sources react with the soil in the changing environment of a floodplain will improve our ability to predict the fate of soil carbon in response to climate change.
+- Soils are a vast reservoir of global carbon, containing more carbon than the atmosphere and plants combined. However, because we don’t know what keeps carbon in the soil, we cannot predict how soil carbon will respond to climate change. My dissertation research at UMass Amherst explored an ecosystem heavily impacted by climate change: alpine watersheds. Specifically, I investigated how snowmelt and associated flooding events at the East River in Colorado impact carbon dynamics in floodplain soils, through interactions with both minerals and microbes. To do this research, I worked with Marco Keiluweit's Soil Biogeochemistry Group (now at [UNIL](https://wp.unil.ch/bgc/)) and a team of researchers involved with the Watershed Function project at the East River floodplain in Colorado, located near the Rocky Mountain Biological Laboratory. 
+- Understanding how carbon cycles in dynamic floodplain environments will improve our ability to predict the fate of soil carbon in response to climate change, especially as extreme floods and droughts become ever more common.
 
 ### Spatial controls on soil carbon cycling in high-latitude permafrost ecosystems.
 
