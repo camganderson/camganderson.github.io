@@ -24,4 +24,4 @@ title: Projects
 
 ## Effects of biosolids and biochar amendments on agricultural soil
 
-- I completed my MS in Soils and Biogeochemistry at UC Davis. As part of Kate Scow's soil microbial ecology lab, I studied how waste products such as biosolids and biochar can be used as amendments to agricultural soil. A major question I asked was how chemicals commonly found in biosolids (antibiotics and other personal care products, for example) can affect soil microbial communities and related processes, and if biochar can be used to remediate contaminated biosolids.
+- I completed my MS in [Soils and Biogeochemistry at UC Davis](https://soils.ucdavis.edu/). As part of Kate Scow's soil microbial ecology lab, I studied how waste products such as biosolids and biochar can be used as amendments to agricultural soil. A major question I asked was how chemicals commonly found in biosolids (antibiotics and other personal care products, for example) can affect soil microbial communities and related processes, and if biochar can be used to remediate contaminated biosolids.
