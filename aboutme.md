@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Soil scientist and educator
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a soil biogeochemist and an advocate for open, inclusive, and communicative science. As a soil scientist, my interests lie in understanding the factors that control biogeochemical processes, from the micro- to the ecosystem-scale, as well as the myriad ways we manage and relate to soils.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have a PhD in Environmental Conservation from UMass Amherst. I also completed the Graduate Certificate in Feminist Studies, in the Department of Women, Gender, Sexuality Studies. Prior, ​I received an MS in Soils and Biogeochemistry from UC Davis, and worked as a Research Associate at the Pacific Northwest National Laboratory, where I studied soil carbon cycling in a permafrost ecosystem in Alaska.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My journey in soil science has immersed me in everything from building stormwater retention gardens and studying environmental politics, to leading soils field trips and actively engaging in discussions of diversity and equity in the sciences.
