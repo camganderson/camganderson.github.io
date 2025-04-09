@@ -4,6 +4,9 @@ title: Projects
 ---
 
 ## Current Projects
+### Necromass contributions to soil organic matter.
+
+- I am currently a postdoc with [Kristen DeAngelis](https://kristendeangelis.net/) at UMass Amherst, where I am conducting experiments to assess how microbes contribute to the formation and persistence of soil organic matter through their iterative processes of growth, death, and recycling of cell constituents (necromass).
 
 ## Previous Projects
 ### Soil carbon cycling in dynamic floodplain systems.
