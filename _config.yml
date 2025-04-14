@@ -138,13 +138,13 @@ navbar-var-length: false
 
 page-col: "#191970" #was #FFFFFF
 text-col: "#FFFAFA" #was #404040
-link-col: "#008AFF"
+link-col: "#663399" #was #008AFF
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#00008B" #was #EAEAEA
+navbar-text-col: "#FFFAFA" #was #404040
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#00008B" #was #EAEAEA
+footer-text-col: "#FFFAFA" #was #777777
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
