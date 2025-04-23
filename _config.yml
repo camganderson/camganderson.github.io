@@ -108,15 +108,15 @@ keywords: "cam anderson, soil science, western massachusetts"
 
 page-col: "#3a3b7c" #was #FFFFFF; #483D8B
 text-col: "#FFFAFA" #was #404040
-link-col: "#FF7F50" #was #008AFF
-hover-col: "#483D8B" #was #0085A1
+link-col: "#FF7F50" #was #008AFF; #FF7F50
+hover-col: "#B8643D" #was #0085A1; #483D8B
 navbar-col: "#181b2f" #was #EAEAEA; #2b2b2b
 navbar-text-col: "#FFFAFA" #was #404040
 navbar-border-col: "#DDDDDD"
 footer-col: "#181b2f" #was #EAEAEA; #2b2b2b
 footer-text-col: "#FFFAFA" #was #777777
-footer-link-col: "#FF7F50" #was #404040
-footer-hover-col: "#483D8B" #was #0085A1
+footer-link-col: "#FFFAFA" #was #404040
+footer-hover-col: "#3a3b7c" #was #0085A1
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
