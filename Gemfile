@@ -11,6 +11,9 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# Jekyll SEO Tag: https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/installation.md
+gem 'jekyll-seo-tag'
   
 gemspec
 
