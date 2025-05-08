@@ -15,6 +15,6 @@ Through my own meandering journey to soil science I have found agility in crossi
 Courses previously taught:
 * Introduction to Soil Science (University of California Davis, University of Massachusetts Amherst)
 * Beyond Earth: Sci Fi and Otherworldly Soils (University of Massachusetts Amherst)
-* Diversity / Inclusion / Pedagogy Seminar (University of Massachusetts Amherst) (https://websites.umass.edu/geosci595p-fbowlick/about/)
-* "From the Ground Up" soils hike with the Kestrel Land Trust (co-organized with M. Garcia-Arredondo, R. Davenport)
+* [Diversity / Inclusion / Pedagogy Seminar](https://websites.umass.edu/geosci595p-fbowlick/about/) (University of Massachusetts Amherst)
+* ["From the Ground Up"](https://www.kestreltrust.org/calendar/umass-soils-walk-2018/) soils hike with the Kestrel Land Trust (co-organized with M. Garcia-Arredondo, R. Davenport)
 * "Soils & Climate Change" soils field trip with Arcadia Wildlife Sanctuary (co-organized with M. Shinfuku, M. Garcia-Arredondo)
