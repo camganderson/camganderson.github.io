@@ -22,6 +22,7 @@ author: Cam G. Anderson
 navbar-links:
   About Me: "aboutme"
   Projects: "projects"
+  Teaching and Mentorship: "teaching"
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
 
