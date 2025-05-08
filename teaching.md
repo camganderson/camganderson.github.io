@@ -3,7 +3,7 @@ layout: page
 title: Teaching & Mentorship
 ---
 <p align="center">
-<em>We hold so many worlds inside us. So many futures. It is our radical responsibility to share these worlds, to plant them in the soil of our society as seeds for the type of justice we want and need.</em><br>
+<em>"We hold so many worlds inside us. So many futures. It is our radical responsibility to share these worlds, to plant them in the soil of our society as seeds for the type of justice we want and need."</em><br>
   --adrienne marie brown<br>
   in <a href="https://www.akpress.org/octavia-s-brood.html">"Octavia's Brood: Science Fiction Stories from Social Justice Movements"</a>
 </p>
