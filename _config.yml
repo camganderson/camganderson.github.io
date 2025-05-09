@@ -24,7 +24,6 @@ navbar-links:
   Projects: "projects"
   Teaching and Mentorship: "teaching"
   Resources: "resources"
-    #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
@@ -66,9 +65,9 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
   reddit: false
 
@@ -158,11 +157,6 @@ footer-hover-col: "#3a3b7c" #was #0085A1
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
-
-# Google Universal Analytics ID -- deprecated
-# As of July 2023 this is no longer supported by Google! If you are still using `google_analytics`,
-# you should switch to using the `gtag` field above instead.
-#google_analytics: "UA-XXXXXXXX-X"
 
 ####################
 # --- Comments --- #
