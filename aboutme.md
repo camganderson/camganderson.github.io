@@ -4,8 +4,6 @@ title: About me
 subtitle: Soil scientist and educator
 ---
 
-<img src="assets/img/profile-plants.jpg" alt="a picture of Cam in front of green plants" width="40%"/>
-
 ![a picture of Cam in front of green plants](assets/img/profile-plants.jpg){: .center-image width="40%"}
 
 I'm a soil biogeochemist and an advocate for open, inclusive, and communicative science. As a soil scientist, my interests lie in understanding the factors that control biogeochemical processes, from the micro- to the ecosystem-scale, as well as the myriad ways we manage and relate to soils.
